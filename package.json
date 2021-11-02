@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Reneecc/webpackDemo#readme",
   "devDependencies": {
-    "webpack": "^3.5.6"
+    "webpack": "^3.5.6",
+    "webpack-cli": "^4.9.1"
   }
 }
