@@ -1,0 +1,22 @@
+{
+  "name": "webpackdemo",
+  "version": "1.0.0",
+  "description": "wepack demo parctice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reneecc/webpackDemo.git"
+  },
+  "author": "cc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reneecc/webpackDemo/issues"
+  },
+  "homepage": "https://github.com/Reneecc/webpackDemo#readme",
+  "devDependencies": {
+    "webpack": "^3.5.6"
+  }
+}
